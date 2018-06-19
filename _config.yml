@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-theme: jekyll-theme-cayman
-=======
 title: Friends of Oro
 email: gregory@kiboko.fr
 description: >-
@@ -29,4 +26,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
->>>>>>> Initial commit
